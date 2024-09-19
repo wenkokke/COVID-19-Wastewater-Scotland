@@ -1,6 +1,7 @@
 chardet
+geopandas
 matplotlib
-mypy
 numpy
 pandas
 scipy
+seaborn
